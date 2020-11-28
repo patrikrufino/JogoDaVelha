@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo Da Velha</string>
+    <string name="jogador">Jogador:</string>
+    <string name="resetar">Resetar</string>
+    <string name="todo">TODO</string>
+    <string name="novo_jogo">Novo Jogo</string>
+</resources>
